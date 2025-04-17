@@ -20,8 +20,8 @@ Este proyecto contiene una serie de pruebas automatizadas usando **Selenium WebD
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone  https://github.com/Imer-Alejandro/test_blog_p3.git
+   cd test_blog_p3
 
 Instala las dependencias:
 
